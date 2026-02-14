@@ -1,6 +1,6 @@
 # Inventory Management System
 
-**Team Members:** Jithu Dhanapalan & Arppan George
+**Team Members:** Jithu Dhanapalan & Arppan George Biju
 
 ## Problem Statement and Objective
 
@@ -40,6 +40,10 @@ Businesses need an efficient system to manage their product inventory and track 
 ## Screenshots
 
 ![Inventory Management System GUI](screenshot.png)
+
+![Screenshot 1](1.jpeg)
+![Screenshot 2](2.jpeg)
+![Screenshot 3](3.jpeg)
 
 ## Sample Test Cases
 
